@@ -11,6 +11,11 @@
         "type": "page"
       },
       {
+        "page": "dictionary",
+        "name": "Словарь терминов",
+        "type": "page"
+      },
+      {
         "page": "categorytest",
         "name": "Категория",
         "type": "category",
