@@ -16,6 +16,11 @@
         "type": "page"
       },
       {
+        "page": "commands",
+        "name": "Команды",
+        "type": "page"
+      },
+      {
         "page": "categorytest",
         "name": "Категория",
         "type": "category",
