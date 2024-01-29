@@ -1,0 +1,29 @@
+{
+    "contents": [
+      {
+        "page": "",
+        "name": "Введение",
+        "type": "page"
+      },
+      {
+        "page": "faq",
+        "name": "Часто задаваемые вопросы",
+        "type": "page"
+      },
+      {
+        "page": "categorytest",
+        "name": "Категория",
+        "type": "category",
+        "items": [
+          {
+            "page": "test2",
+            "name": "test 2"
+          },
+          {
+            "page": "test3",
+            "name": "test 3"
+          }
+        ]
+      }
+    ]
+  }
